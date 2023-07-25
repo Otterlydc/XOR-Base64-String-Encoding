@@ -18,4 +18,4 @@ class MessageDecoder {
         };
     };
 };
-let decoder = new MessageDecoder();
+let Decoder = new MessageDecoder();

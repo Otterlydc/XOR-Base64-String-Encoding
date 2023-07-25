@@ -18,4 +18,4 @@ class MessageEncoder {
         };
     };
 };
-let encoder = new MessageEncoder();
+let Encoder = new MessageEncoder();
