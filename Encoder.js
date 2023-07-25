@@ -19,3 +19,7 @@ class MessageEncoder {
     };
 };
 let Encoder = new MessageEncoder();
+
+// Example Usage (With your string)
+Encoder.Encode("Hello World!")
+// Output -->  "￾￲！＞－￲￣２！￝￤Ｄ－￲￼３"
